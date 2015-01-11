@@ -1,3 +1,6 @@
+# (c) 2015 Anthony Sandrin
+# This code is licensed under MIT license (see LICENSE.txt for details)
+
 SRCDIR=src
 INCDIR=inc
 OBJDIR=obj
